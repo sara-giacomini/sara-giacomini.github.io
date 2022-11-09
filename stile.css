@@ -1,0 +1,42 @@
+body,
+head {
+  background-color: black;
+}
+
+p {
+  text-align: justify;
+  color: white;
+  font-family: Monaco, monospace;
+  font-size: 15px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    color: red;
+    font-style: oblique;
+    text-align: center;
+    font-family: Monaco, monospace;
+    font-size: 30px;
+}
+
+nav {
+  text-align: center;
+}
+
+table {
+    font-family: Monaco, monospace;
+}
+
+a{
+    color: white;
+}
+
+table {
+    color: white;
+}
